@@ -10,7 +10,7 @@ function Header() {
         <Link to="/login">
           <img
             className="header__logo"
-            src="https://1000logos.net/amazon-logo/"
+            src="https://w7.pngwing.com/pngs/911/623/png-transparent-amazon-com-amazon-alexa-retail-amazon-prime-order-fulfillment-amazon-miscellaneous-company-text.png"
             alt="Amazon-logo"
           />
         </Link>
