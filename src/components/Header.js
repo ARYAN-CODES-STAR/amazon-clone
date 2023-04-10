@@ -4,6 +4,8 @@ import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
 import { Link } from "react-router-dom";
 
 function Header() {
+
+  
   return (
     <>
       <nav className="header">
