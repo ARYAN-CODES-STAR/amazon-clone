@@ -35,7 +35,7 @@ export const initialState = {
   
       case "ADD_TO_BASKET":
         // Logic for adding item to basket
-        return { ...state, basket: [...state.basket, action.payload] };
+        return { ...state, basket: [...state.basket, action.item] };
   
       case "REMOVE_FROM_BASKET":
         let newBasket = [...state.basket];

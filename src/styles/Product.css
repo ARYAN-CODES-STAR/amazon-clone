@@ -27,3 +27,16 @@
 .product__price{
     margin-top: 5px;
 }
+button{
+    background-color: rgb(221, 152, 63);
+}
+.product__rating {
+    display: flex;
+  }
+  
+  .product > img {
+    max-height: 200px;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 15px;
+  }
